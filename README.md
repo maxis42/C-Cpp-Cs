@@ -1,2 +1,2 @@
-# C-Cpp-Cs
-BMSTU C-Cpp-Cs course
+# C / C++ / C#
+BMSTU C / C++ / C# course
